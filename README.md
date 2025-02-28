@@ -6,8 +6,7 @@ This project performs exploratory data analysis (EDA) and data cleaning on an e-
 ## Dataset
 Here's a concise update:  
 
-The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data), 
-downloaded, and uploaded to Google Drive. The data file is also included in the repository for easy access.
+The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data),downloaded, and uploaded to Google Drive.
 - The dataset is loaded from Google Drive (`data.csv`).
 - It includes transaction details such as `CustomerID`, `InvoiceNo`, `InvoiceDate`, `Quantity`, `UnitPrice`, and `Country`.
 
